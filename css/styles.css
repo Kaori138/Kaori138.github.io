@@ -126,6 +126,12 @@ font-size: 20px;
 color:#fff;
 margin: 4px;
 }
+
+.container img{
+        width: 100%;
+    
+} 
+
 /* Header 
 ----------------------------------------------*/
 .header {
@@ -452,6 +458,7 @@ text-align: right;
 font-weight: 600;
 padding-right: 0px;
 }
+
 .progress {
 border-radius: 0px;
 height: 15px;
